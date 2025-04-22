@@ -1,0 +1,14 @@
+- Revertible Wool-String recipes.
+- Rotten Carcasses made from Rotten Flesh, smeltable into Leather.
+- Reversible Copper Block recipes (decorative; waxed)
+- Reversible Quartz Block recipes
+- Reversible Amethyst Block recipes
+- Stone Cutter allows for many more decorative options and reverse recipes.
+- Craftable Cobwebs
+- Stone Tools are made of Flint instead of Cobblestone.
+- Froglights can be made with Frog Oil and Glowstone/Prismarine Lamps/Shroomlights. Right click Frogs with empty bottles to harvest oil (4 minute cooldown).
+- Reversible Ice recipes.
+- Reversible Nether Wart recipes.
+- Craftable OR Enchantable Notched Apples.
+- Craftable Horse Armors, Nametags
+- Copper Buttons with lower delay than stone.

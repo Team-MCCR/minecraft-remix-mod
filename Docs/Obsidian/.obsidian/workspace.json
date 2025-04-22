@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "5156ef3b924834bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b306364b75b36de3",
+        "type": "tabs",
+        "dimension": 80.73104693140795,
+        "children": [
+          {
+            "id": "7cfc160722eba112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mod Features/Enchantments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enchantments"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2bdb162479086aeb",
+        "type": "tabs",
+        "dimension": 19.268953068592058,
+        "children": [
+          {
+            "id": "d0096091324153aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2df77a3e9210048b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e211553c93c5a57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08dabd7e79406c72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "96e5bf4bd112b963",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0fed99f3739bee4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9167015336a2afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ea0c7b459fa2706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c31b6ce7b2e91285",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9340efb50432da03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "482f1292abf622f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fb6453867749ba73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7cfc160722eba112",
+  "lastOpenFiles": [
+    "Mod Features/Crafting.md",
+    "Mod Features/Beds.md",
+    "Mod Features/Combat.md",
+    "Mod Features/Logistics.md",
+    "Mod Features/New Mechanics.md",
+    "Mod Features/Potions.md",
+    "Mod Features/Redstone.md",
+    "Mod Features/Tool Materials.md",
+    "Mod Features/Furnaces.md",
+    "Mod Features/Experience.md",
+    "Mod Features/Misc.md",
+    "Mod Features/Enchantments.md",
+    "Mod Features/Tools.md",
+    "Mod Features/World Gen.md",
+    "General/Main Grievances.md",
+    "Mod Features/XP Additions.md",
+    "Mod Features/Furnace Additions.md",
+    "Mod Features/Redstone Additions.md",
+    "Mod Features/Logistic Additions.md",
+    "Mod Features/Mechanics Additions.md",
+    "Mod Features/Tool Materials Additions.md",
+    "Mod Features/Enchantment Additions.md",
+    "Mod Features",
+    "Welcome.md",
+    "General"
+  ]
+}

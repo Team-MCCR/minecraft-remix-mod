@@ -1,0 +1,70 @@
+## CHANGES
+
+- WOOD: Nerfed durability to 32. Repaired with planks or sticks.
+- STONE: Recipe requires Flint, not Cobblestone.
+	- Exception for Blackstone.
+	- Cannot mine iron.
+	- Repaired with Flint.
+- CHAINMAIL:
+	- Can be crafted (Chain Links/Rings)
+	- Less Piercing defense.
+	- Repaired with Iron
+- IRON:
+	- Can be Polarized by electric shocks, causing items to be attracted to you. (Same for Chainmail)
+	- Polarization repels/attracts players with metallic armors and polarized armors.
+	- Repaired with Iron.
+- GOLD:
+	- 64/128 durability instead of 32.
+	- Enchantments are vastly more powerful, and can cross the game's limits.
+	- Unbreaking goes up to X, Fortune and Looting up to 5...
+	- Repaired with Gold.
+- DIAMOND:
+	- Repaired with Diamond.
+- NETHERITE:
+	- Can be repaired with Gold at a steeper price. Buffs Netherite Ingot repairs.
+	- Slightly better enchantment weights.
+	- Can be combined at a Smithing Table with a Nether Star and Eldritch Templates (Ancient Cities) to become Starry Netherite Gear.
+
+## ADDITIONS
+
+- OBSIDIAN:
+	- Tools as bad as Stone tools, but indestructible.
+	- Nerfed enchantability.
+- COPPER:
+	- Can mine Iron
+	- Between Stone and Iron.
+	- Cannot be enchanted.
+	- Can be combined with a Power Crystal in a Smithing Table.
+- ENERGIZED COPPER
+	- Energized Copper can be charged with Lightning or Solar Panels.
+	- Provides Respiration, Jump Boost and Thorns for armor.
+	- Energized Gear uses energy before wasting durability.
+	- Each piece has little capacity, but energy is divided between all gear in the inventory.
+		- Armors divide energy between themselves, and sends energy to tools being used.
+		- Tools can't send energy back to armors.
+	- Tools have buffed effects based on charge levels.
+		- Sharpness V for swords, Efficiency V for tools. Decays with power loss.
+		- Swords shock nearby enemies when above half durability.
+- STARRY NETHERITE
+	- Gets all enchantability bonuses from regular Gold tools.
+- GRIMALCITE
+	- New resource - Mine Meteorites at the End for nuggets, mix 4 ingots with 4 copper for a Grimalcite Ingot.
+	- Upgrade Diamond armor with Grimalcite and Advanced Templates (End Cities and Ships).
+	- Grimalcite is slightly weaker than Netherite.
+	- Can be combined with a Power Lattice in a Smithing Table.
+- ENERGIZED GRIMALCITE
+	- Same effects from Energized Copper, but effects are stronger.
+		- Boots add Feather Falling, Helmets get Aqua Affinity, Gear works like Polarized Iron.
+	- Tool enchantments are overcharged if they're at 100%
+		- Efficiency and Sharpness 6, Intelligent 3
+		- Fortune 3 on Pickaxes, Treecapitator on Axes and Looting 3 on Swords
+		- Immediately goes down to copper levels if not fully charged.
+
+- POWER CRYSTALS
+	- Used in Copper Armor and Solar Panels.
+	- Stores 128 units of energy.
+	- Made with Diamonds, Quartz and an Amethyst.
+- POWER LATTICES
+	- Used in Grimalcite Armor and Solar Panels.
+	- Stores 512 units of energy.
+	- Made with Echo Shards, Prismarine Crystals and an Emerald.

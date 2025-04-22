@@ -1,0 +1,85 @@
+- Experience System is a MESS
+	- Anvil and Enchantments use flat values instead of raw XP, despite flat levels costing exponentially more raw XP as they increase.
+		- This forces the player to sit at around 30 levels for enchanting, and not engage with most anvil mechanics.
+	- Anvil operations increase XP cost exponentially, which is unreasonable for anything that isn't mashing tons of OP enchantments in a single item.
+		- Absurdly punishing costs for renaming and repairing items even if it doesn't make any sense.
+	- Broken farms with Lingering potions & Silverfish
+	- Could feature an XP-storing solution with Ancient City materials & Amethyst.
+- Logistics are terrible.
+	- Bundles are interesting but way too finnicky to use comfortably. GUI when right clicked?
+	- Inventory space still suffers from item bloat each new update, with Shulkers being the only way to remedy the lack of space. Perhaps allow opening shulker boxes like backpacks instead of having to place them?
+	- Hoppers are very limited for no reason. Simple item pipes could be a solution.
+		- Copper could be used for pipes, extensive networks makes copper more useful and balances out extensive iron costs for some automation
+		- Pipes should work like Gregtech; auto-connect if they're placed together, but require manual wrenching to make new connections. Wrench could be the Blaze Rod (maybe a Soddering Tool with Blaze Rod) to act as a vanilla-friendly alternative to the tired wrench trope. Acts as a way to melt pipes apart/together.
+	- Crafters are horrendous
+		- Create an improved crafter to store recipes like a normal human being.
+		- Recipes require items to be placed in the block as the crafting recipe, input refills the right slots as they come and redstone pumps out the item without messing the design.
+	- Safes - double-chest sized storage blocks that are created with a Safe Lock. Locks are made with nametags and can get a 4-digit password engraved before crafting it.
+	- Automate I/O for Brewing Stands, Enchantment Tables (lapis input), 
+- Redstone dust is unyieldy. While people have made good use of the current system, there's no reason not to improve on it for accessibility and convenience.
+	- Redstone wires could be made with copper, further adding to its usefulness.
+		- Similar behavior to the pipes mentioned before, with Blaze Rods being used as soddering tools to control connections.
+		- Can be placed vertically. Could have infinite signal range, or wire versions for repeaters with all the same features.
+		- Could get logic gate blocks implemented?
+		- Resistance wires could reintroduce the usual redstone behavior of 15 block-range
+- Tool mechanics are extremely outdated and unfun.
+	- No item loss at 0 durability, just break the item and require it being repaired/mended by the player.
+	- Gold tools are utterly useless. Could be reworked to rely on enchantments instead, being able to achieve higher levels to become stronger instead. Unbreaking plays with themes of luck when handling durability.
+	- OPTIONAL: Change stone tool recipes to use flint instead. Add flint recipe from 3 gravel.
+	- OPTIONAL: Require stone/flint+ to mine copper, and only copper+ tools to mine iron.
+	- Anvil repairing should use a small, fixed amount of experience & not increase the tool's work penalty EVER. Work penalty should be tied to the tools' current enchantments.
+	- Netherite equipment can be repaired with gold instead (1000 netherite, 100 gold), although pretty expensive. Has a slight buff to enchantments due to the Gold influence (still not as strong as pure gold)
+	- Combining a Netherite Tool with a Netherite Star allows for pure-gold tier enchantments.
+	- Maces should be indestructible by default.
+	- Tridents should have higher durability & be repaired with Diamonds.
+	- Glass/Glowstone/others don't count as breakable by pickaxes, fix that.
+	- "Treecapitator" enchantment for Axes that damages it per tree block broken.
+	- Turtle Shells get the "Hard-Hat" effect, negating Elytra collision damage and Mace falling damage.
+	- Obsidian Tools - As bad as stone tools, but indestructible. Nerfed enchantability.
+	- Copper Tools - More down below.
+- Copper Tool ideas & more.
+	- Copper Tools can't be enchanted, and are worse than iron.
+	- Can be combined with a Power Crystal (diamond, redstone, amethyst?) in a smithing table to become energized.
+	- Powered tools use energy before consuming durability, and become as fast as Diamond, as strong as Iron.
+	- Energy can be absorbed and recharged by Daylight Energizers (improved Daylight Sensors) under sunlight. Quartz cables (?) can transfer daylight energy to a charge pad that charges your entire inventory.
+	- Copper Armor works the same - Energized armor has improved defense, Thorns, and transfer their energy to energized copper tools automatically.
+	- Boots boost jump height and/or give a slight speed boost. Helmets electrolyze water to provide more oxygen when submerged. These actions chip away at their energy.
+	- Iron tools/armor could be energized to become Polarized, attracting items from a distance (range varies on the amount of polarized iron items equipped, up to 5)
+- New Ender Ingot?
+	- Upgrades from Diamonds just like Netherite, but is focused on energy like copper tools.
+	- Meteorite - Ore that spawns in spherical meteors across the End. Drops a few nuggets for each block.
+	- Grimalcite - Combine 4 meteorite bars with 4 copper bars. Upgrade diamond tools with templates found in End Cities.
+	- Netherite-tier equivalent to Copper energized tools. Require crafting a Power Lattice with Echo Shards, Prismarine Crystals and an Emerald.
+	- Direct upgrade to the energized copper enhancements.
+	- Power Crystals and Lattices have their own energy bar instead of the tool itself. Maybe add a way to disassemble items like that.
+- Combat changes from 1.9 have failed to improve the previous system & in many ways made it all worse.
+	- No regular means of enchanting other tools with combat enchantments (Axes, Hoes...). There could be a toggle in the enchantment table, different tables or specific bookshelves that force combat enchantments.
+	- Hurtframes last for longer than some tool use times (e.g Hoes), making them useless.
+	- Crossbow Multishot is worthless since extra arrows don't harm enemies due to hurtframes.
+	- Fire Aspect damage gets in the way of DPS due to excessive hurtframes.
+	- Potion arrows are worthless and too expensive.
+		- Alternative recipe with splash potions for half the yield
+		- Arrow effects last longer (0:30 to 1:30 depending on potion length)
+		- Craft 2 Holy Arrows with a harming and a healing arrow. Maybe dropping on a water cauldron? Deal extra damage to all mobs + a beam of light effect.
+	- Nerfs Power enchantment??
+	- Bow enchantment to double potion effects on arrows fired. Incompatible with Infinity.
+	- Quivers could be re-added like Bundles, with 3 64 slots for arrows.
+	- Make potions stackable (if possible?); Last for longer by condensing extended potions in a Breeze Rod brewing stand. (Breezing Stand?) Could use Wind Charges as fuel.
+	- Axe special effect - Critical damage while standing still? Hoes could get more reach, Pickaxes ignore armor and Shovels stun enemies.
+	- Crossbow enchantment "Explosive" - Any fireworks will blow up like maxxed out rockets, but double durability cost. Works with multishot.
+	- Dynamite sticks - 4 crafted from 1 TNT Block. Thrown like snowballs and instantly explode, dropping 100% of the blocks. Strong for mining.
+	- TNT blows up from crossbow rocket shots that explode, instantly.
+	- Allow crafting of Notched Apples back (either gold blocks or enchanting on a table on LVL 30)
+	- Add Elytra slot separate from chestplate (?)
+	- Feeding a hostile dog with steak will cancel any current aggression.
+	- Buff Mace damage to 15.
+- Item Dropping is another relic from the past, when the game had less commitment to items you make and use.
+	- Some alternatives: Generate a "grave" when you die (something else different to avoid the trope), but it still destroys your items on fire/lava/cacti.
+	- Option to have a partial keepInventory function where tools, armors and the recovery compasses are tagged as essential items and don't drop, with everything else dropping like normal (blocks, ores, food, AND shulker boxes no matter their content.)
+	- Alternative totem (Totem of Keeping) that prevents item drops when you die (still lose XP?). Could drop from regular Pillagers on raids.
+- Coal and Furnace changes:
+	- Option to consume smeltable item during the smelting operation to avoid interruptions (?)
+	- Blaze Coal - Coal with Blaze Powder that smelts items twice as fast and lasts 50% more than regular Coal. Blaze Charcoal has the same fuel as regular coal.
+	- Create a Rotten Carcass with 3 Rotten Flesh, that can be smelted into Leather.
+	- Cobblestone and other rocks can be smelted on Blast Furnaces.
+	- Wooden logs can be smoked on smokers for Charcoal.

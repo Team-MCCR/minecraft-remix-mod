@@ -1,0 +1,38 @@
+## CHANGES
+
+- Somehow, tweaks the hurtframes' duration to viabilize certain attacks.
+- AXES: timed hit deals critical damage without jumping.
+- HOES: 1+ reach, can now deal full fps with tweaked frames
+- PICKAXE: ignores most armor on hit.
+- SHOVEL: timed hit can stun an enemy for 0.5s?
+- MACE: 
+	- Damage buffed to 15 (was 6)
+	- Now requires charging up to attack (same exact dps as vanilla's speed)
+- TRIDENTS: 2+ reach and better durability.
+- BOWS: More arrow types.
+	- Fire arrow: Self-explanatory. Made with 4 arrows, 1 gunpowder and 1 paper ?
+	- Holy arrows: Made with Harming and Healing arrows together. Deal extra damage (based on the lowest value between original arrows) to all entities (except players?). Light beam aftereffect.
+	- All tipped arrows get increased duration buffs. 
+	- Tipped arrows can be made with splash potions at half the yield.
+- CROSSBOWS:
+	- Reduced Multishot Spread
+	- Can also fire Dynamite Sticks at increased durability cost.
+	- Multishot arrows ignore hurtframes from other arrows? Same goes for rockets.
+	- Piercing ignores more armor?
+- SHIELDS: cooldown after hit?
+- LEATHER: No changes
+- CHAINMAIL:
+	- Can be crafted with Chain Rings (4 iron nuggets?)
+	- Weaker to Tridents, Pickaxes and Projectiles.
+- COPPER:
+	- Can be energized to provide player buffs.
+	- Respiration from water electrolysis, Jump Boost from boots and Thorns (shock) effect.
+- IRON/GOLD/NETHERITE:
+	- Slight movement speed penalty?
+- DIAMOND:
+	- Only get full piercing damage from diamond+ pickaxes, some from iron.
+- ELYTRA:
+	- Dedicated slot?
+- TURTLE SHELL:
+	- Hard-Hat effect provides elytra damage negation and mace fall damage bonus negation.
+## ADDITIONS
